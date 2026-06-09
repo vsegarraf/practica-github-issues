@@ -1,4 +1,4 @@
-# src/calculadora.py
+# scr/calculadora.py
 def sumar(a, b):
     return a + b
 
