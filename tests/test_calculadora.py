@@ -1,5 +1,5 @@
 # tests/test_calculadora.py
-import src.calculadora
+from src import calculadora
 
 def test_sumar_dos_numeros():
     assert src.calculadora.sumar(2, 3) == 5
