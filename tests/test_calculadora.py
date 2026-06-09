@@ -2,10 +2,10 @@
 from src import calculadora
 
 def test_sumar_dos_numeros():
-    assert src.calculadora.sumar(2, 3) == 5
+    assert calculadora.sumar(2, 3) == 5
 
 def test_restar():
-    assert src.calculadora.restar(5, 3) == 2
+    assert calculadora.restar(5, 3) == 2
     
 def test_multiplicar():
-    assert src.calculadora.multiplicar(4, 2) == 8
+    assert calculadora.multiplicar(4, 2) == 8
