@@ -13,5 +13,5 @@ Este repositorio se utiliza para una práctica de Aseguramiento de Calidad de So
 ## Estructura del repositorio
 La práctica requiere crear la siguiente estructura mínima:
 - **docs**: documentación general del proyecto o práctica.  
-- **src**: carpeta destinada al código fuente (aunque en esta práctica puede estar vacía).  
+- **src**: carpeta destinada al código fuente.  
 - **tests**: carpeta para pruebas (manuales o automatizadas).
